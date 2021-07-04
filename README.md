@@ -1,2 +1,2 @@
 # Ask-Vivekanand
-Immitation of works of Swami Vivekanand, thorugh questions of today's world.
+Immitation of works of Swami Vivekanand, through questions of today's world.
